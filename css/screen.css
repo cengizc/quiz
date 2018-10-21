@@ -1,0 +1,7 @@
+body { padding: 20px auto; background:#093c76; font-family:sans-serif; color:#fff } 
+a {color:#fff; text-decoration: none}
+#mainContainer{width: 20%;padding: 0px 20px 20px 20px; margin: 20px auto; border: 2px solid #fff;border-radius: 10px; }
+#mainContainer ul { background:#3399cc; margin: 0px; padding:10px;border-radius: 10px;  }
+#mainContainer ul li { margin:5px; list-style:none; line-height: 50px; border-radius: 10px; border: 2px dotted #fff; font-size: 30px;}
+#mainContainer ul li a {padding:0px 10px;border: }
+#mainContainer ul li:hover { background:#006699; cursor:pointer }
